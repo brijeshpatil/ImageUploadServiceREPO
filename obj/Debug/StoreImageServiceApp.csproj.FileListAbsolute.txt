@@ -1,0 +1,6 @@
+D:\Brijesh\StoreImageServiceApp\StoreImageServiceApp\bin\StoreImageServiceApp.dll.config
+D:\Brijesh\StoreImageServiceApp\StoreImageServiceApp\bin\StoreImageServiceApp.dll
+D:\Brijesh\StoreImageServiceApp\StoreImageServiceApp\bin\StoreImageServiceApp.pdb
+D:\Brijesh\StoreImageServiceApp\StoreImageServiceApp\obj\Debug\StoreImageServiceApp.csprojResolveAssemblyReference.cache
+D:\Brijesh\StoreImageServiceApp\StoreImageServiceApp\obj\Debug\StoreImageServiceApp.dll
+D:\Brijesh\StoreImageServiceApp\StoreImageServiceApp\obj\Debug\StoreImageServiceApp.pdb
